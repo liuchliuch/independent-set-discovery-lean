@@ -15,7 +15,6 @@ import time
 
 ROOT = Path(__file__).resolve().parents[1]
 SPEC = ROOT / 'comparator'
-LIBRARY = 'CombinatorialContracts'
 AXIOMS = {'propext', 'Classical.choice', 'Quot.sound'}
 
 
