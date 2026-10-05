@@ -1,0 +1,14 @@
+{
+  "challenge_module": "ComparatorControls.Challenge",
+  "solution_module": "ComparatorControls.ExtraAxiom",
+  "theorem_names": [
+    "ReleaseComparatorControl.target"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": false
+}

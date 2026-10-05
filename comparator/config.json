@@ -1,0 +1,29 @@
+{
+  "challenge_module": "StatementContracts.Challenge",
+  "solution_module": "StatementContracts.Solution",
+  "theorem_names": [
+    "ISDContracts.paper_1_2",
+    "ISDContracts.paper_3_1",
+    "ISDContracts.paper_3_2",
+    "ISDContracts.paper_3_3",
+    "ISDContracts.paper_4_1",
+    "ISDContracts.paper_4_2",
+    "ISDContracts.paper_4_3",
+    "ISDContracts.paper_4_4",
+    "ISDContracts.paper_4_5",
+    "ISDContracts.paper_4_6",
+    "ISDContracts.paper_5_1",
+    "ISDContracts.paper_5_2",
+    "ISDContracts.paper_5_3",
+    "ISDContracts.paper_5_4",
+    "ISDContracts.paper_5_5",
+    "ISDContracts.paper_5_6"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": false,
+  "definition_names": []
+}

@@ -1,0 +1,19 @@
+{
+  "lean": "leanprover/lean4:v4.24.0",
+  "comparator": {
+    "url": "https://github.com/leanprover/comparator.git",
+    "rev": "97ef939c9fe3f8abf93e4adb654517476da7a66f"
+  },
+  "lean4export": {
+    "url": "https://github.com/leanprover/lean4export",
+    "rev": "f7f95b22c1bff79cfbec7f32c13ced73a1b4fdcd"
+  },
+  "lean4checker": {
+    "url": "https://github.com/leanprover/lean4checker",
+    "rev": "da26eb05e9959402afcb9bd6dfe5dc4f700f70d6"
+  },
+  "landrun": {
+    "url": "https://github.com/zouuup/landrun",
+    "rev": "811cfff51ceaf3d9843708aa6d22e9b84ccac8b4"
+  }
+}
